@@ -1,0 +1,22 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+    <Button
+        android:id="@+id/btn_get_pic"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_get_pic_text"
+        android:layout_alignParentTop="true"
+        />
+    <ImageView
+        android:id="@+id/iv_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/btn_get_pic"
+        android:src="@drawable/ic_launcher"
+        android:contentDescription="@string/hello_world"
+        android:adjustViewBounds="true"
+        />
+</RelativeLayout>

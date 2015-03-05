@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- EXAMPLE 005 -->
+    <string name="my_string_one">my string one</string>
+    <string name="my_string_two">my string two</string>
+
+    <plurals name="dollar_plural">
+        <item quantity="one">1 Dollar</item>
+        <item quantity="other">%d Dollars</item>
+    </plurals>
+
+    <!-- EXAMPLE 006 -->
+    <string-array name="my_string_array">
+        <item>First string</item>
+        <item>Second string</item>
+        <item>Third string</item>
+    </string-array>
+
+    <!-- EXAMPLE 008 -->
+    <string name="iv_description">Random image here</string>
+
+    <!-- EXAMPLE 011 -->
+    <string name="button_one">Button one</string>
+    <string name="button_two">Button two</string>
+    <string name="button_three">Button three</string>
+
+    <!-- EXAMPLE 013 -->
+    <string name="button_four">Button Four</string>
+
+    <!-- EXAMPLE 015 -->
+    <string name="button_five">Button Five</string>
+    <string name="button_six">Button Six</string>
+    <string name="button_seven">Button Seven</string>
+    <string name="button_eight">Button Eight</string>
+    <string name="button_nine">Button Nine</string>
+
+    <!-- EXAMPLE 017 -->
+    <string name="tv_start">Click on the button !</string>
+    <string name="btn_text">Click</string>
+
+    <!-- EXAMPLE 018 -->
+    <string name="et_hint">Enter text here.</string>
+    <string name="tv_initial">You have not entered any text</string>
+
+    <!-- EXAMPLE 019 -->
+    <string name="tv_off">CheckBox is unchecked</string>
+    <string name="tv_on">CheckBox is checked</string>
+    <string name="cb_text">Click Me</string>
+
+    <!-- EXAMPLE 020 -->
+    <string name="tv_display_rb1">RadioButton 1 selected</string>
+    <string name="tv_display_rb2">RadioButton 2 selected</string>
+    <string name="tv_display_rb3">RadioButton 3 selected</string>
+    <string name="rb1">Radio Button 1</string>
+    <string name="rb2">Radio Button 2</string>
+    <string name="rb3">Radio Button 3</string>
+
+    <!-- EXAMPLE 021 -->
+    <string name="tv_display_init">Spinner value selected: This</string>
+
+    <string-array name="spinner_strings">
+        <item>This</item>
+        <item>is</item>
+        <item>a</item>
+        <item>list</item>
+        <item>of</item>
+        <item>spinner</item>
+        <item>items</item>
+    </string-array>
+
+    <!-- EXAMPLE 022 -->
+    <string name="tv_display_init2">Current value selected is: 0</string>
+
+    <!-- EXAMPLE 023 -->
+    <string name="tv_display_init3">No date has been selected</string>
+
+    <!-- EXAMPLE 024 -->
+    <string name="tv_display_init4">Nothing selected</string>
+    <string name="et_hint2">Enter text here</string>
+
+    <!-- EXAMPLE 025 -->
+    <string name="tv_display_init5">Nothing selected</string>
+    <string name="et_hint3">Enter text here</string>
+
+    <!-- EXAMPLE 027 -->
+    <string name="tv_display_init6">No menu item selected</string>
+    <string name="mi_my_menu_item_string">My menu item</string>
+
+    <!-- EXAMPLE 029 -->
+    <string name="et_hint4">Enter text here</string>
+    <string name="btn_text2">Clear</string>
+    <string name="app_name">AndroidByExample</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- EXAMPLE 031 -->
+    <string name="second">This was started by an intent</string>
+    <string name="btn_text3">Start Second Activity</string>
+
+    <!-- EXAMPLE 032 -->
+    <string name="btn_text4">Click for new activity</string>
+    <string name="btn_accept">Dismiss and update counter</string>
+
+    <!-- EXAMPLE 033 -->
+    <string name="btn_url_text">Load Griffith website</string>
+    <string name="btn_maps_text">Show Griffith on map</string>
+
+    <!-- EXAMPLE 034 -->
+    <string name="btn_get_pic_text">Take a picture</string>
+    <string name="iv_view_text">Pic taken by camera</string>
+
+    <string name="example_001">001</string>
+    <string name="example_002">002</string>
+    <string name="example_003">003</string>
+    <string name="example_004">004</string>
+    <string name="example_005">005</string>
+    <string name="example_006">006</string>
+    <string name="example_007">007</string>
+    <string name="example_008">008</string>
+    <string name="example_009">009</string>
+    <string name="example_010">010</string>
+    <string name="example_011">011</string>
+    <string name="example_012">012</string>
+    <string name="example_013">013</string>
+    <string name="example_014">014</string>
+    <string name="example_015">015</string>
+    <string name="example_016">016</string>
+    <string name="example_017">017</string>
+    <string name="example_018">018</string>
+    <string name="example_019">019</string>
+    <string name="example_020">020</string>
+    <string name="example_021">021</string>
+    <string name="example_022">022</string>
+    <string name="example_023">023</string>
+    <string name="example_024">024</string>
+    <string name="example_025">025</string>
+    <string name="example_026">026</string>
+    <string name="example_027">027</string>
+    <string name="example_028">028</string>
+    <string name="example_029">029</string>
+    <string name="example_030">030</string>
+    <string name="example_031">031</string>
+    <string name="example_032">032</string>
+    <string name="example_033">033</string>
+    <string name="example_034">034</string>
+    <string name="example_035">035</string>
+    <string name="example_036">036</string>
+    <string name="example_037">037</string>
+    <string name="example_038">038</string>
+    <string name="example_039">039</string>
+    <string name="example_040">040</string>
+    <string name="example_041">041</string>
+    <string name="title_activity_example001">Example001</string>
+    <string name="title_activity_example002">Example002</string>
+    <string name="title_activity_example003">Example003</string>
+    <string name="title_activity_example004">Example004</string>
+    <string name="title_activity_example005">Example005</string>
+    <string name="title_activity_example006">Example006</string>
+    <string name="title_activity_example007">Example007</string>
+    <string name="title_activity_example008">Example008</string>
+    <string name="title_activity_example009">Example009</string>
+    <string name="title_activity_example010">Example010</string>
+    <string name="title_activity_example011">Example011</string>
+    <string name="title_activity_example012">Example012</string>
+    <string name="title_activity_example013">Example013</string>
+    <string name="title_activity_example014">Example014</string>
+    <string name="title_activity_example015">Example015</string>
+    <string name="title_activity_example016">Example016</string>
+    <string name="title_activity_example017">Example017</string>
+    <string name="title_activity_example018">Example018</string>
+    <string name="title_activity_example019">Example019</string>
+    <string name="title_activity_example020">Example020</string>
+    <string name="title_activity_example021">Example021</string>
+    <string name="title_activity_example022">Example022</string>
+    <string name="title_activity_example023">Example023</string>
+    <string name="title_activity_example024">Example024</string>
+    <string name="title_activity_example025">Example025</string>
+    <string name="title_activity_example026">Example026</string>
+    <string name="title_activity_example027">Example027</string>
+    <string name="title_activity_example028">Example028</string>
+    <string name="title_activity_example029">Example029</string>
+    <string name="title_activity_example030">Example030</string>
+    <string name="title_activity_example031">Example031</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="title_activity_activity032">Activity032</string>
+    <string name="title_activity_example032">example032</string>
+    <string name="title_activity_third">ThirdActivity</string>
+    <string name="title_activity_example033">Example033</string>
+    <string name="title_activity_example034">Example034</string>
+    <string name="title_activity_example041">Example041</string>
+
+</resources>

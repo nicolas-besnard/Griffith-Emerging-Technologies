@@ -1,0 +1,84 @@
+<TableLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+    <TableRow
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        >
+        <Button
+            android:text="@string/button_one"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            />
+
+        <Button
+            android:text="@string/button_two"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            />
+
+        <Button
+            android:text="@string/button_three"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+        />
+
+    </TableRow>
+    <TableRow
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        >
+        <Button
+            android:text="@string/button_four"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            />
+
+        <Button
+            android:text="@string/button_five"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            />
+
+        <Button
+            android:text="@string/button_six"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            />
+
+    </TableRow>
+    <TableRow
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        >
+        <Button
+            android:text="@string/button_seven"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            />
+
+        <Button
+            android:text="@string/button_eight"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            />
+
+        <Button
+            android:text="@string/button_nine"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            />
+    </TableRow>
+
+</TableLayout>

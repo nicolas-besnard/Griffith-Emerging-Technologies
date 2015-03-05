@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Assignment_01</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="add_contact">Add Contact</string>
+    <string name="title_activity_add_contact">AddContact</string>
+    <string name="add_user__phone">Phone:</string>
+    <string name="add_user__name">Name:</string>
+    <string name="add_user__email">Email:</string>
+    <string name="add_user__btn_add">Add</string>
+</resources>

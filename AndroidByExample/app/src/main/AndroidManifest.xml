@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.nicolas.androidbyexample" >
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Example001"
+            android:label="@string/title_activity_example001" >
+        </activity>
+        <activity
+            android:name=".Example002"
+            android:label="@string/title_activity_example002" >
+        </activity>
+        <activity
+            android:name=".Example003"
+            android:label="@string/title_activity_example003" >
+        </activity>
+        <activity
+            android:name=".Example004"
+            android:label="@string/title_activity_example004" >
+        </activity>
+        <activity
+            android:name=".Example005"
+            android:label="@string/title_activity_example005" >
+        </activity>
+        <activity
+            android:name=".Example006"
+            android:label="@string/title_activity_example006" >
+        </activity>
+        <activity
+            android:name=".Example007"
+            android:label="@string/title_activity_example007" >
+        </activity>
+        <activity
+            android:name=".Example008"
+            android:label="@string/title_activity_example008" >
+        </activity>
+        <activity
+            android:name=".Example009"
+            android:label="@string/title_activity_example009" >
+        </activity>
+        <activity
+            android:name=".Example010"
+            android:label="@string/title_activity_example010" >
+        </activity>
+        <activity
+            android:name=".Example011"
+            android:label="@string/title_activity_example011" >
+        </activity>
+        <activity
+            android:name=".Example012"
+            android:label="@string/title_activity_example012" >
+        </activity>
+        <activity
+            android:name=".Example013"
+            android:label="@string/title_activity_example013" >
+        </activity>
+        <activity
+            android:name=".Example014"
+            android:label="@string/title_activity_example014" >
+        </activity>
+        <activity
+            android:name=".Example015"
+            android:label="@string/title_activity_example015" >
+        </activity>
+        <activity
+            android:name=".Example016"
+            android:label="@string/title_activity_example016" >
+        </activity>
+        <activity
+            android:name=".Example017"
+            android:label="@string/title_activity_example017" >
+        </activity>
+        <activity
+            android:name=".Example018"
+            android:label="@string/title_activity_example018" >
+        </activity>
+        <activity
+            android:name=".Example019"
+            android:label="@string/title_activity_example019" >
+        </activity>
+        <activity
+            android:name=".Example020"
+            android:label="@string/title_activity_example020" >
+        </activity>
+        <activity
+            android:name=".Example021"
+            android:label="@string/title_activity_example021" >
+        </activity>
+        <activity
+            android:name=".Example022"
+            android:label="@string/title_activity_example022" >
+        </activity>
+        <activity
+            android:name=".Example023"
+            android:label="@string/title_activity_example023" >
+        </activity>
+        <activity
+            android:name=".Example024"
+            android:label="@string/title_activity_example024" >
+        </activity>
+        <activity
+            android:name=".Example025"
+            android:label="@string/title_activity_example025" >
+        </activity>
+        <activity
+            android:name=".Example026"
+            android:label="@string/title_activity_example026" >
+        </activity>
+        <activity
+            android:name=".Example027"
+            android:label="@string/title_activity_example027" >
+        </activity>
+        <activity
+            android:name=".Example028"
+            android:label="@string/title_activity_example028" >
+        </activity>
+        <activity
+            android:name=".Example029"
+            android:label="@string/title_activity_example029" >
+        </activity>
+        <activity
+            android:name=".Example030"
+            android:label="@string/title_activity_example030" >
+        </activity>
+        <activity
+            android:name=".Example031"
+            android:label="@string/title_activity_example031" >
+        </activity>
+        <activity
+            android:name=".SecondActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name=".Activity032"
+            android:label="@string/title_activity_activity032" >
+        </activity>
+        <activity
+            android:name=".Example032"
+            android:label="@string/title_activity_example032" >
+        </activity>
+        <activity
+            android:name=".ThirdActivity"
+            android:label="@string/title_activity_third" >
+        </activity>
+        <activity
+            android:name=".Example033"
+            android:label="@string/title_activity_example033" >
+        </activity>
+        <activity
+            android:name=".Example034"
+            android:label="@string/title_activity_example034" >
+        </activity>
+        <activity
+            android:name=".Example041"
+            android:label="@string/title_activity_example041" >
+        </activity>
+    </application>
+
+</manifest>
